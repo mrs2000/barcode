@@ -1,0 +1,22 @@
+{
+    "name": "mrssoft/barcode",
+    "version": "1.0.0",
+    "description": "Barcode coder ",
+    "keywords": ["barcode", "EAN", "code128"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Melnikov Ruslan",
+            "email": "mrs2000@inbox.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "mrssoft\\barcode\\": ""
+        }
+    }
+}
